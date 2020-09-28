@@ -1,0 +1,11 @@
+Hola! Si estás viendo esto, ya viste el ejemplo del hello-world oficial, así que no me voy a repetir.
+
+Solo aprovecho a mencionar ciertas cosas:
+
+- Podemos generar una imágen propia, que haga más o menos lo mismo que el hello world.
+- Partimos desde una distro Alpine (la parte del FROM)
+- Copiamos los archivos de texto que necesitamos
+- Definimos como CMD un comando que muestre el contenido de los archivos de texto
+
+- Y como este Dockerfile es propio y nosotros tenemos el control y no Docker inc., le agrego la formación del Quilmes 2012 que jugaba realmente muy bien...
+
